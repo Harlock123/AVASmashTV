@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AVASmashTV/AVASmashTV.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AVASmashTV.Tests/AVASmashTV.Tests.csproj" />
+  </Folder>
+</Solution>
